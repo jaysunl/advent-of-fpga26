@@ -1,0 +1,6 @@
+(library
+ (name day3_lib)
+ (libraries base hardcaml)
+ (preprocess
+  (pps ppx_hardcaml ppx_jane)))
+

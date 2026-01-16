@@ -1,0 +1,70 @@
+# ULX3S Board Constraints
+# https://github.com/emard/ulx3s
+
+# 25 MHz Clock
+LOCATE COMP "clock" SITE "G2";
+IOBUF PORT "clock" IO_TYPE=LVCMOS33;
+FREQUENCY NET "clock" 25 MHZ;
+
+# Reset button (active-high, add inverter if button is active-low)
+LOCATE COMP "clear" SITE "R1";  # BTN_PWRn (inverted)
+IOBUF PORT "clear" IO_TYPE=LVCMOS33 PULLMODE=UP;
+
+# Input signals mapped to DIP switches or GPIO
+# GP14-17 on J1 header
+LOCATE COMP "digit[0]" SITE "B11";  # GP14
+LOCATE COMP "digit[1]" SITE "C11";  # GP15
+LOCATE COMP "digit[2]" SITE "A10";  # GP16
+LOCATE COMP "digit[3]" SITE "A11";  # GP17
+IOBUF PORT "digit[0]" IO_TYPE=LVCMOS33;
+IOBUF PORT "digit[1]" IO_TYPE=LVCMOS33;
+IOBUF PORT "digit[2]" IO_TYPE=LVCMOS33;
+IOBUF PORT "digit[3]" IO_TYPE=LVCMOS33;
+
+# Control signals on GP18-19
+LOCATE COMP "digit_valid" SITE "A9";   # GP18
+LOCATE COMP "end_of_line" SITE "B10";  # GP19
+IOBUF PORT "digit_valid" IO_TYPE=LVCMOS33;
+IOBUF PORT "end_of_line" IO_TYPE=LVCMOS33;
+
+# Output to LEDs (first 8 bits of result)
+# LED 0-7
+LOCATE COMP "line_result[0]" SITE "B2";
+LOCATE COMP "line_result[1]" SITE "C2";
+LOCATE COMP "line_result[2]" SITE "C1";
+LOCATE COMP "line_result[3]" SITE "D2";
+LOCATE COMP "line_result[4]" SITE "D1";
+LOCATE COMP "line_result[5]" SITE "E2";
+LOCATE COMP "line_result[6]" SITE "E1";
+LOCATE COMP "line_result[7]" SITE "H3";
+IOBUF PORT "line_result[0]" IO_TYPE=LVCMOS33;
+IOBUF PORT "line_result[1]" IO_TYPE=LVCMOS33;
+IOBUF PORT "line_result[2]" IO_TYPE=LVCMOS33;
+IOBUF PORT "line_result[3]" IO_TYPE=LVCMOS33;
+IOBUF PORT "line_result[4]" IO_TYPE=LVCMOS33;
+IOBUF PORT "line_result[5]" IO_TYPE=LVCMOS33;
+IOBUF PORT "line_result[6]" IO_TYPE=LVCMOS33;
+IOBUF PORT "line_result[7]" IO_TYPE=LVCMOS33;
+
+# Total output to GPIO (first 8 bits for display)
+# GP20-27 on J1 header
+LOCATE COMP "total[0]" SITE "A7";   # GP20
+LOCATE COMP "total[1]" SITE "A8";   # GP21
+LOCATE COMP "total[2]" SITE "B8";   # GP22
+LOCATE COMP "total[3]" SITE "A6";   # GP23
+LOCATE COMP "total[4]" SITE "B6";   # GP24
+LOCATE COMP "total[5]" SITE "A5";   # GP25
+LOCATE COMP "total[6]" SITE "C5";   # GP26
+LOCATE COMP "total[7]" SITE "A4";   # GP27
+IOBUF PORT "total[0]" IO_TYPE=LVCMOS33;
+IOBUF PORT "total[1]" IO_TYPE=LVCMOS33;
+IOBUF PORT "total[2]" IO_TYPE=LVCMOS33;
+IOBUF PORT "total[3]" IO_TYPE=LVCMOS33;
+IOBUF PORT "total[4]" IO_TYPE=LVCMOS33;
+IOBUF PORT "total[5]" IO_TYPE=LVCMOS33;
+IOBUF PORT "total[6]" IO_TYPE=LVCMOS33;
+IOBUF PORT "total[7]" IO_TYPE=LVCMOS33;
+
+# Remaining bits of total (8-31) - assign to additional GPIOs as needed
+# For now, leave unconstrained (synthesis only)
+

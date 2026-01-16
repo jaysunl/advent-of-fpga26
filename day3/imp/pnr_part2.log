@@ -1,0 +1,806 @@
+Info: constraining clock net 'clock' to 25.00 MHz
+Warning: IO 'total[63]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[62]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[61]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[60]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[59]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[58]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[57]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[56]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[55]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[54]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[53]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[52]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[51]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[50]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[49]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[48]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[47]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[46]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[45]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[44]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[43]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[42]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[41]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[40]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[39]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[38]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[37]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[36]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[35]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[34]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[33]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[32]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[31]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[30]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[29]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[28]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[27]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[26]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[25]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[24]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[23]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[22]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[21]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[20]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[19]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[18]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[17]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[16]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[15]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[14]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[13]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[12]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[11]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[10]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[9]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[8]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[47]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[46]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[45]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[44]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[43]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[42]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[41]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[40]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[39]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[38]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[37]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[36]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[35]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[34]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[33]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[32]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[31]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[30]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[29]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[28]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[27]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[26]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[25]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[24]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[23]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[22]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[21]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[20]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[19]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[18]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[17]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[16]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[15]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[14]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[13]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[12]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[11]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[10]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[9]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'line_result[8]' is unconstrained in LPF and will be automatically placed
+
+Info: Logic utilisation before packing:
+Info:     Total LUT4s:      1538/83640     1%
+Info:         logic LUTs:     16/83640     0%
+Info:         carry LUTs:   1522/83640     1%
+Info:           RAM LUTs:      0/10455     0%
+Info:          RAMW LUTs:      0/20910     0%
+
+Info:      Total DFFs:       557/83640     0%
+
+Info: Packing IOs..
+Info: pin 'total[7]$tr_io' constrained to Bel 'X0/Y11/PIOA'.
+Info: pin 'total[6]$tr_io' constrained to Bel 'X0/Y11/PIOD'.
+Info: pin 'total[5]$tr_io' constrained to Bel 'X0/Y11/PIOB'.
+Info: pin 'total[4]$tr_io' constrained to Bel 'X4/Y0/PIOB'.
+Info: pin 'total[3]$tr_io' constrained to Bel 'X4/Y0/PIOA'.
+Info: pin 'total[2]$tr_io' constrained to Bel 'X15/Y0/PIOB'.
+Info: pin 'total[1]$tr_io' constrained to Bel 'X18/Y0/PIOB'.
+Info: pin 'total[0]$tr_io' constrained to Bel 'X18/Y0/PIOA'.
+Info: pin 'line_result[7]$tr_io' constrained to Bel 'X0/Y41/PIOD'.
+Info: pin 'line_result[6]$tr_io' constrained to Bel 'X0/Y38/PIOD'.
+Info: pin 'line_result[5]$tr_io' constrained to Bel 'X0/Y44/PIOD'.
+Info: pin 'line_result[4]$tr_io' constrained to Bel 'X0/Y38/PIOB'.
+Info: pin 'line_result[3]$tr_io' constrained to Bel 'X0/Y38/PIOC'.
+Info: pin 'line_result[2]$tr_io' constrained to Bel 'X0/Y38/PIOA'.
+Info: pin 'line_result[1]$tr_io' constrained to Bel 'X0/Y35/PIOD'.
+Info: pin 'line_result[0]$tr_io' constrained to Bel 'X0/Y35/PIOC'.
+Info: pin 'end_of_line$tr_io' constrained to Bel 'X60/Y0/PIOB'.
+Info: pin 'digit_valid$tr_io' constrained to Bel 'X60/Y0/PIOA'.
+Info: pin 'digit[3]$tr_io' constrained to Bel 'X63/Y0/PIOB'.
+Info: pin 'digit[2]$tr_io' constrained to Bel 'X63/Y0/PIOA'.
+Info: pin 'digit[1]$tr_io' constrained to Bel 'X65/Y0/PIOB'.
+Info: pin 'digit[0]$tr_io' constrained to Bel 'X65/Y0/PIOA'.
+Info: pin 'clock$tr_io' constrained to Bel 'X0/Y47/PIOA'.
+Info: pin 'clear$tr_io' constrained to Bel 'X4/Y95/PIOA'.
+Info: Packing constants..
+Info: Packing carries...
+Info: Packing LUTs...
+Info: Packing LUT5-7s...
+Info: Packing FFs...
+Info:     542 FFs paired with LUTs.
+Info: Generating derived timing constraints...
+Info: Promoting globals...
+Info:     promoting clock net clock$TRELLIS_IO_IN to global network
+Info: Checksum: 0x75f6b75e
+
+Info: Device utilisation:
+Info: 	          TRELLIS_IO:     120/    365    32%
+Info: 	                DCCA:       1/     56     1%
+Info: 	              DP16KD:       0/    208     0%
+Info: 	          MULT18X18D:      31/    156    19%
+Info: 	              ALU54B:       0/     78     0%
+Info: 	             EHXPLLL:       0/      4     0%
+Info: 	             EXTREFB:       0/      2     0%
+Info: 	                DCUA:       0/      2     0%
+Info: 	           PCSCLKDIV:       0/      2     0%
+Info: 	             IOLOGIC:       0/    224     0%
+Info: 	            SIOLOGIC:       0/    141     0%
+Info: 	                 GSR:       0/      1     0%
+Info: 	               JTAGG:       0/      1     0%
+Info: 	                OSCG:       0/      1     0%
+Info: 	               SEDGA:       0/      1     0%
+Info: 	                 DTR:       0/      1     0%
+Info: 	             USRMCLK:       0/      1     0%
+Info: 	             CLKDIVF:       0/      4     0%
+Info: 	           ECLKSYNCB:       0/     10     0%
+Info: 	             DLLDELD:       0/      8     0%
+Info: 	              DDRDLL:       0/      4     0%
+Info: 	             DQSBUFM:       0/     14     0%
+Info: 	     TRELLIS_ECLKBUF:       0/      8     0%
+Info: 	        ECLKBRIDGECS:       0/      2     0%
+Info: 	                DCSC:       0/      2     0%
+Info: 	          TRELLIS_FF:     557/  83640     0%
+Info: 	        TRELLIS_COMB:    1672/  83640     1%
+Info: 	        TRELLIS_RAMW:       0/  10455     0%
+
+Info: Placed 24 cells based on constraints.
+Info: Creating initial analytic placement for 97 cells, random placement wirelen = 182307.
+Info:     at initial placer iter 0, wirelen = 12677
+Info:     at initial placer iter 1, wirelen = 11186
+Info:     at initial placer iter 2, wirelen = 11549
+Info:     at initial placer iter 3, wirelen = 10830
+Info: Running main analytical placer, max placement attempts per cell = 708645.
+Info:     at iteration #1, type ALL: wirelen solved = 10770, spread = 33639, legal = 40265; time = 0.23s
+Info:     at iteration #2, type ALL: wirelen solved = 10772, spread = 30607, legal = 35841; time = 0.19s
+Info:     at iteration #3, type ALL: wirelen solved = 11121, spread = 30644, legal = 35219; time = 0.12s
+Info:     at iteration #4, type ALL: wirelen solved = 11165, spread = 30404, legal = 35331; time = 0.10s
+Info:     at iteration #5, type ALL: wirelen solved = 11293, spread = 28722, legal = 33584; time = 0.12s
+Info:     at iteration #6, type ALL: wirelen solved = 11318, spread = 31353, legal = 34830; time = 0.12s
+Info:     at iteration #7, type ALL: wirelen solved = 11269, spread = 33759, legal = 38489; time = 0.08s
+Info:     at iteration #8, type ALL: wirelen solved = 11320, spread = 33247, legal = 36732; time = 0.09s
+Info:     at iteration #9, type ALL: wirelen solved = 11239, spread = 33986, legal = 37918; time = 0.08s
+Info:     at iteration #10, type ALL: wirelen solved = 11195, spread = 35376, legal = 36571; time = 0.07s
+Info: HeAP Placer Time: 1.94s
+Info:   of which solving equations: 1.06s
+Info:   of which spreading cells: 0.09s
+Info:   of which strict legalisation: 0.25s
+
+Info: Running simulated annealing placer for refinement.
+Info:   at iteration #1: temp = 0.000000, timing cost = 1005, wirelen = 33584
+Info:   at iteration #5: temp = 0.000000, timing cost = 1500, wirelen = 27699
+Info:   at iteration #10: temp = 0.000000, timing cost = 1356, wirelen = 26938
+Info:   at iteration #12: temp = 0.000000, timing cost = 1289, wirelen = 26908 
+Info: SA placement time 2.52s
+
+Info: Max frequency for clock '$glbnet$clock$TRELLIS_IO_IN': 47.98 MHz (PASS at 25.00 MHz)
+
+Info: Max delay <async>                             -> posedge $glbnet$clock$TRELLIS_IO_IN: 13.62 ns
+Info: Max delay posedge $glbnet$clock$TRELLIS_IO_IN -> <async>                            : 11.24 ns
+
+Info: Slack histogram:
+Info:  legend: * represents 2 endpoint(s)
+Info:          + represents [1,2) endpoint(s)
+Info: [ 19160,  20076) |**************************+
+Info: [ 20076,  20992) |**********************************************+
+Info: [ 20992,  21908) |************************************************************ 
+Info: [ 21908,  22824) |****+
+Info: [ 22824,  23740) |**********************************+
+Info: [ 23740,  24656) |********************************************************+
+Info: [ 24656,  25572) |****************************************+
+Info: [ 25572,  26488) |*********************************+
+Info: [ 26488,  27404) |*********************************+
+Info: [ 27404,  28320) |*******************************+
+Info: [ 28320,  29236) |***********************+
+Info: [ 29236,  30152) |*****************************+
+Info: [ 30152,  31068) |*****************+
+Info: [ 31068,  31984) |**************+
+Info: [ 31984,  32900) |******+
+Info: [ 32900,  33816) |+
+Info: [ 33816,  34732) |+
+Info: [ 34732,  35648) |************+
+Info: [ 35648,  36564) |************+
+Info: [ 36564,  37480) |******+
+Info: Checksum: 0xc57e61e7
+Info: Routing globals...
+Info:     routing clock net $glbnet$clock$TRELLIS_IO_IN using global 0
+
+Info: Routing..
+Info: Setting up routing queue.
+Info: Routing 5645 arcs.
+Info:            |   (re-)routed arcs  |   delta    | remaining|       time spent     |
+Info:    IterCnt |  w/ripup   wo/ripup |  w/r  wo/r |      arcs| batch(sec) total(sec)|
+Info:       1000 |      723        276 |  723   276 |      5476|       2.06       2.06|
+Info:       2000 |     1405        594 |  682   318 |      5332|       1.65       3.72|
+Info:       3000 |     2098        901 |  693   307 |      5176|       2.90       6.61|
+Info:       4000 |     2720       1279 |  622   378 |      4947|       2.79       9.40|
+Info:       5000 |     3143       1856 |  423   577 |      4454|       2.12      11.52|
+Info:       6000 |     3393       2606 |  250   750 |      3725|       1.06      12.58|
+Info:       7000 |     3695       3030 |  302   424 |      3056|       1.93      14.51|
+Info:       8000 |     3753       3548 |   58   518 |      2119|       0.56      15.07|
+Info:       9000 |     4247       4049 |  494   501 |      1639|       2.51      17.57|
+Info:      10000 |     4329       4893 |   82   844 |       725|       1.23      18.81|
+Info:      10766 |     4364       5575 |   35   682 |         0|       0.59      19.40|
+Info: Routing complete.
+Info: Router1 time 19.40s
+Info: Checksum: 0xa06a8e07
+
+Info: Critical path report for clock '$glbnet$clock$TRELLIS_IO_IN' (posedge -> posedge):
+Info:       type curr  total name
+Info:   clk-to-q  0.52  0.52 Source _111_TRELLIS_FF_Q_36.Q
+Info:    routing  2.79  3.32 Net _111[11] (55,42) -> (27,34)
+Info:                          Sink _131_CCU2C_S0_8_B0_CCU2C_S0_B0_MULT18X18D_P0_P3_MULT18X18D_P0.A11
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:96.17-96.20
+Info:      logic  3.93  7.24 Source _131_CCU2C_S0_8_B0_CCU2C_S0_B0_MULT18X18D_P0_P3_MULT18X18D_P0.P0
+Info:    routing  2.82  10.07 Net _131_CCU2C_S0_8_B0_CCU2C_S0_B0_MULT18X18D_P0_P3[0] (27,34) -> (49,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.A
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:30.22-30.23
+Info:      logic  0.45  10.52 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  10.52 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (49,43) -> (49,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  10.52 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  10.52 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (49,43) -> (49,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  10.59 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  10.59 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (49,43) -> (49,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  10.59 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  10.59 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (49,43) -> (49,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  10.66 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  10.66 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (49,43) -> (49,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  10.66 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  10.66 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (49,43) -> (50,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  10.73 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  10.73 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (50,43) -> (50,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  10.73 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  10.73 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (50,43) -> (50,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  10.80 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  10.80 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (50,43) -> (50,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  10.80 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  10.80 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (50,43) -> (50,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  10.87 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  10.87 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (50,43) -> (50,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  10.87 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  10.87 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (50,43) -> (50,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  10.94 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  10.94 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (50,43) -> (50,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  10.94 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  10.94 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (50,43) -> (51,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  11.01 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  11.01 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (51,43) -> (51,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  11.01 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  11.01 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT_CIN (51,43) -> (51,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  11.08 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  11.08 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT$CCU2_FCI_INT (51,43) -> (51,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  11.08 Source _131_CCU2C_S0_18_B0_CCU2C_S0_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  11.08 Net _131_CCU2C_S0_18_B0_CCU2C_S0_CIN (51,43) -> (51,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  11.15 Source _131_CCU2C_S0_18_B0_CCU2C_S0$CCU2_COMB0.FCO
+Info:    routing  0.00  11.15 Net _131_CCU2C_S0_18_B0_CCU2C_S0$CCU2_FCI_INT (51,43) -> (51,43)
+Info:                          Sink _131_CCU2C_S0_18_B0_CCU2C_S0$CCU2_COMB1.FCI
+Info:      logic  0.00  11.15 Source _131_CCU2C_S0_18_B0_CCU2C_S0$CCU2_COMB1.FCO
+Info:    routing  0.00  11.15 Net _131_CCU2C_S0_18_B0_CCU2C_S0_COUT (51,43) -> (51,43)
+Info:                          Sink _131_CCU2C_S0_17_B0_CCU2C_S0$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  11.23 Source _131_CCU2C_S0_17_B0_CCU2C_S0$CCU2_COMB0.FCO
+Info:    routing  0.00  11.23 Net _131_CCU2C_S0_17_B0_CCU2C_S0$CCU2_FCI_INT (51,43) -> (51,43)
+Info:                          Sink _131_CCU2C_S0_17_B0_CCU2C_S0$CCU2_COMB1.FCI
+Info:      logic  0.00  11.23 Source _131_CCU2C_S0_17_B0_CCU2C_S0$CCU2_COMB1.FCO
+Info:    routing  0.00  11.23 Net _131_CCU2C_S0_17_B0_CCU2C_S0_COUT (51,43) -> (52,43)
+Info:                          Sink _131_CCU2C_S0_16_B0_CCU2C_S0$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  11.30 Source _131_CCU2C_S0_16_B0_CCU2C_S0$CCU2_COMB0.FCO
+Info:    routing  0.00  11.30 Net _131_CCU2C_S0_16_B0_CCU2C_S0$CCU2_FCI_INT (52,43) -> (52,43)
+Info:                          Sink _131_CCU2C_S0_16_B0_CCU2C_S0$CCU2_COMB1.FCI
+Info:      logic  0.00  11.30 Source _131_CCU2C_S0_16_B0_CCU2C_S0$CCU2_COMB1.FCO
+Info:    routing  0.00  11.30 Net _131_CCU2C_S0_16_B0_CCU2C_S0_COUT (52,43) -> (52,43)
+Info:                          Sink _131_CCU2C_S0_15_B0_CCU2C_S0$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  11.37 Source _131_CCU2C_S0_15_B0_CCU2C_S0$CCU2_COMB0.FCO
+Info:    routing  0.00  11.37 Net _131_CCU2C_S0_15_B0_CCU2C_S0$CCU2_FCI_INT (52,43) -> (52,43)
+Info:                          Sink _131_CCU2C_S0_15_B0_CCU2C_S0$CCU2_COMB1.FCI
+Info:      logic  0.00  11.37 Source _131_CCU2C_S0_15_B0_CCU2C_S0$CCU2_COMB1.FCO
+Info:    routing  0.00  11.37 Net _131_CCU2C_S0_15_B0_CCU2C_S0_COUT (52,43) -> (52,43)
+Info:                          Sink _131_CCU2C_S0_14_B0_CCU2C_S0$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.44  11.81 Source _131_CCU2C_S0_14_B0_CCU2C_S0$CCU2_COMB0.F
+Info:    routing  1.16  12.97 Net _131_CCU2C_S0_14_B0 (52,43) -> (52,41)
+Info:                          Sink _131_CCU2C_S0_14$CCU2_COMB0.B
+Info:      logic  0.45  13.42 Source _131_CCU2C_S0_14$CCU2_COMB0.FCO
+Info:    routing  0.00  13.42 Net _131_CCU2C_S0_14$CCU2_FCI_INT (52,41) -> (52,41)
+Info:                          Sink _131_CCU2C_S0_14$CCU2_COMB1.FCI
+Info:      logic  0.00  13.42 Source _131_CCU2C_S0_14$CCU2_COMB1.FCO
+Info:    routing  0.00  13.42 Net _131_CCU2C_S0_14_COUT (52,41) -> (52,41)
+Info:                          Sink _131_CCU2C_S0_13$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:286.19-286.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  13.49 Source _131_CCU2C_S0_13$CCU2_COMB0.FCO
+Info:    routing  0.00  13.49 Net _131_CCU2C_S0_13$CCU2_FCI_INT (52,41) -> (52,41)
+Info:                          Sink _131_CCU2C_S0_13$CCU2_COMB1.FCI
+Info:      logic  0.00  13.49 Source _131_CCU2C_S0_13$CCU2_COMB1.FCO
+Info:    routing  0.00  13.49 Net _131_CCU2C_S0_13_COUT (52,41) -> (53,41)
+Info:                          Sink _131_CCU2C_S0_11$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:286.19-286.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  13.56 Source _131_CCU2C_S0_11$CCU2_COMB0.FCO
+Info:    routing  0.00  13.56 Net _131_CCU2C_S0_11$CCU2_FCI_INT (53,41) -> (53,41)
+Info:                          Sink _131_CCU2C_S0_11$CCU2_COMB1.FCI
+Info:      logic  0.00  13.56 Source _131_CCU2C_S0_11$CCU2_COMB1.FCO
+Info:    routing  0.00  13.56 Net _131_CCU2C_S0_11_COUT (53,41) -> (53,41)
+Info:                          Sink _131_CCU2C_S0_10$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:286.19-286.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  13.63 Source _131_CCU2C_S0_10$CCU2_COMB0.FCO
+Info:    routing  0.00  13.63 Net _131_CCU2C_S0_10$CCU2_FCI_INT (53,41) -> (53,41)
+Info:                          Sink _131_CCU2C_S0_10$CCU2_COMB1.FCI
+Info:      logic  0.00  13.63 Source _131_CCU2C_S0_10$CCU2_COMB1.FCO
+Info:    routing  0.00  13.63 Net _131_CCU2C_S0_10_COUT (53,41) -> (53,41)
+Info:                          Sink _131_CCU2C_S0_9$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:286.19-286.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  13.70 Source _131_CCU2C_S0_9$CCU2_COMB0.FCO
+Info:    routing  0.00  13.70 Net _131_CCU2C_S0_9$CCU2_FCI_INT (53,41) -> (53,41)
+Info:                          Sink _131_CCU2C_S0_9$CCU2_COMB1.FCI
+Info:      logic  0.00  13.70 Source _131_CCU2C_S0_9$CCU2_COMB1.FCO
+Info:    routing  0.00  13.70 Net _131_CCU2C_S0_9_COUT (53,41) -> (53,41)
+Info:                          Sink _131_CCU2C_S0_8$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:286.19-286.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.44  14.15 Source _131_CCU2C_S0_8$CCU2_COMB0.F
+Info:    routing  1.13  15.27 Net _131[37] (53,41) -> (53,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.B
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:99.17-99.21
+Info:      logic  0.45  15.72 Source _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  15.72 Net _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (53,40) -> (54,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:287.19-287.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  15.79 Source _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  15.79 Net _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (54,40) -> (54,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  15.79 Source _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  15.79 Net _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (54,40) -> (54,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:287.19-287.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  15.86 Source _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  15.86 Net _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (54,40) -> (54,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  15.86 Source _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  15.86 Net _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (54,40) -> (54,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:287.19-287.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  15.93 Source _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  15.93 Net _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (54,40) -> (54,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  15.93 Source _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  15.93 Net _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN (54,40) -> (54,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:287.19-287.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  16.00 Source _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  16.00 Net _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (54,40) -> (54,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  16.00 Source _133_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  16.00 Net _133_LUT4_Z_D_CCU2C_COUT_CIN (54,40) -> (55,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:287.19-287.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  16.07 Source _133_LUT4_Z_D_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  16.07 Net _133_LUT4_Z_D_CCU2C_COUT$CCU2_FCI_INT (55,40) -> (55,40)
+Info:                          Sink _133_LUT4_Z_D_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  16.07 Source _133_LUT4_Z_D_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  16.07 Net $nextpnr_CCU2C_65$CIN (55,40) -> (55,40)
+Info:                          Sink $nextpnr_CCU2C_65$CCU2_COMB0.FCI
+Info:      logic  0.44  16.52 Source $nextpnr_CCU2C_65$CCU2_COMB0.F
+Info:    routing  0.80  17.32 Net _133_LUT4_Z_D (55,40) -> (52,42)
+Info:                          Sink _133_LUT4_Z.D
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:287.19-287.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.24  17.56 Source _133_LUT4_Z.F
+Info:    routing  1.01  18.57 Net _133 (52,42) -> (49,41)
+Info:                          Sink _125_TRELLIS_FF_Q_44.CE
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:101.10-101.14
+Info:      setup  0.00  18.57 Source _125_TRELLIS_FF_Q_44.CE
+Info: 8.85 ns logic, 9.72 ns routing
+
+Info: Critical path report for cross-domain path '<async>' -> 'posedge $glbnet$clock$TRELLIS_IO_IN':
+Info:       type curr  total name
+Info:     source  0.00  0.00 Source digit[2]$tr_io.O
+Info:    routing  5.06  5.06 Net _102[2] (63,0) -> (40,42)
+Info:                          Sink _198_CCU2C_S0_23$CCU2_COMB1.A
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:13.17-13.22
+Info:      logic  0.45  5.51 Source _198_CCU2C_S0_23$CCU2_COMB1.FCO
+Info:    routing  0.00  5.51 Net _198_CCU2C_S0_23_COUT (40,42) -> (40,42)
+Info:                          Sink _198_CCU2C_S0_12$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:361.19-361.30
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.44  5.95 Source _198_CCU2C_S0_12$CCU2_COMB0.F
+Info:    routing  1.16  7.11 Net _198[3] (40,42) -> (40,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.B
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:149.17-149.21
+Info:      logic  0.45  7.56 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  7.56 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (40,41) -> (40,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  7.63 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  7.63 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (40,41) -> (40,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  7.63 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  7.63 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (40,41) -> (41,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  7.70 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  7.70 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (41,41) -> (41,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  7.70 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  7.70 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (41,41) -> (41,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  7.77 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  7.77 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (41,41) -> (41,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  7.77 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  7.77 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (41,41) -> (41,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  7.84 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  7.84 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (41,41) -> (41,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  7.84 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  7.84 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (41,41) -> (41,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  7.91 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  7.91 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (41,41) -> (41,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  7.91 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  7.91 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (41,41) -> (42,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  7.99 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  7.99 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (42,41) -> (42,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  7.99 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  7.99 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (42,41) -> (42,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.06 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.06 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (42,41) -> (42,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.06 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.06 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (42,41) -> (42,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.13 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.13 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (42,41) -> (42,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.13 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.13 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (42,41) -> (42,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.20 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.20 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (42,41) -> (42,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.20 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.20 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (42,41) -> (43,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.27 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.27 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (43,41) -> (43,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.27 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.27 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (43,41) -> (43,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.34 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.34 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (43,41) -> (43,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.34 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.34 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (43,41) -> (43,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.41 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.41 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (43,41) -> (43,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.41 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.41 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (43,41) -> (43,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.48 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.48 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (43,41) -> (43,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.48 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.48 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (43,41) -> (44,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.55 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.55 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (44,41) -> (44,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.55 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.55 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (44,41) -> (44,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.62 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.62 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (44,41) -> (44,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.62 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.62 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (44,41) -> (44,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.69 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.69 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (44,41) -> (44,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.69 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.69 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (44,41) -> (44,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.77 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.77 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (44,41) -> (44,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.77 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.77 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (44,41) -> (45,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.84 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.84 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (45,41) -> (45,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.84 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.84 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (45,41) -> (45,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.91 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.91 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (45,41) -> (45,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.91 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.91 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT_CIN (45,41) -> (45,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  8.98 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  8.98 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (45,41) -> (45,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  8.98 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  8.98 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT_CIN (45,41) -> (45,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  9.05 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  9.05 Net _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_FCI_INT (45,41) -> (45,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  9.05 Source _200_LUT4_Z_D_CCU2C_COUT_CIN_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  9.05 Net _200_LUT4_Z_D_CCU2C_COUT_CIN (45,41) -> (46,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  9.12 Source _200_LUT4_Z_D_CCU2C_COUT$CCU2_COMB0.FCO
+Info:    routing  0.00  9.12 Net _200_LUT4_Z_D_CCU2C_COUT$CCU2_FCI_INT (46,41) -> (46,41)
+Info:                          Sink _200_LUT4_Z_D_CCU2C_COUT$CCU2_COMB1.FCI
+Info:      logic  0.00  9.12 Source _200_LUT4_Z_D_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  9.12 Net $nextpnr_CCU2C_39$CIN (46,41) -> (46,41)
+Info:                          Sink $nextpnr_CCU2C_39$CCU2_COMB0.FCI
+Info:      logic  0.44  9.56 Source $nextpnr_CCU2C_39$CCU2_COMB0.F
+Info:    routing  0.98  10.54 Net _200_LUT4_Z_D (46,41) -> (43,43)
+Info:                          Sink _200_LUT4_Z.D
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:362.19-362.29
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.24  10.78 Source _200_LUT4_Z.F
+Info:    routing  1.01  11.79 Net _200 (43,43) -> (40,42)
+Info:                          Sink _40_TRELLIS_FF_Q_44.CE
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:152.10-152.14
+Info:      setup  0.00  11.79 Source _40_TRELLIS_FF_Q_44.CE
+Info: 3.58 ns logic, 8.21 ns routing
+
+Info: Critical path report for cross-domain path 'posedge $glbnet$clock$TRELLIS_IO_IN' -> '<async>':
+Info:       type curr  total name
+Info:   clk-to-q  0.52  0.52 Source _206_TRELLIS_FF_Q_44.Q
+Info:    routing  7.00  7.52 Net _206[19] (42,38) -> (103,95)
+Info:                          Sink total[19]$tr_io.I
+Info:                          Defined in:
+Info:                               ../verilog/part2.v:16.19-16.24
+Info: 0.52 ns logic, 7.00 ns routing
+
+Info: Max frequency for clock '$glbnet$clock$TRELLIS_IO_IN': 53.85 MHz (PASS at 25.00 MHz)
+
+Info: Max delay <async>                             -> posedge $glbnet$clock$TRELLIS_IO_IN: 11.79 ns
+Info: Max delay posedge $glbnet$clock$TRELLIS_IO_IN -> <async>                            : 7.52 ns
+
+Info: Slack histogram:
+Info:  legend: * represents 2 endpoint(s)
+Info:          + represents [1,2) endpoint(s)
+Info: [ 21431,  22239) |************************************************************ 
+Info: [ 22239,  23047) |**********************************************+
+Info: [ 23047,  23855) |****************************************************+
+Info: [ 23855,  24663) |******************+
+Info: [ 24663,  25471) |*+
+Info: [ 25471,  26279) |*************************+
+Info: [ 26279,  27087) |******************************+
+Info: [ 27087,  27895) |**************************+
+Info: [ 27895,  28703) |***************************+
+Info: [ 28703,  29511) |********************+
+Info: [ 29511,  30319) |***************+
+Info: [ 30319,  31127) |****************+
+Info: [ 31127,  31935) |************+
+Info: [ 31935,  32743) |**+
+Info: [ 32743,  33551) | 
+Info: [ 33551,  34359) | 
+Info: [ 34359,  35167) |*****+
+Info: [ 35167,  35975) |********+
+Info: [ 35975,  36783) |*********+
+Info: [ 36783,  37591) |*+
+96 warnings, 0 errors
+
+Info: Program finished normally.

@@ -1,0 +1,6 @@
+(executables
+ (names run generate)
+ (libraries base hardcaml hardcaml_waveterm day3_lib)
+ (preprocess
+  (pps ppx_hardcaml ppx_jane)))
+

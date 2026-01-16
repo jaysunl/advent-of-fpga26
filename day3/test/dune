@@ -1,0 +1,7 @@
+(library
+ (name day3_test)
+ (libraries base hardcaml hardcaml_waveterm day3_lib)
+ (inline_tests)
+ (preprocess
+  (pps ppx_hardcaml ppx_jane ppx_expect)))
+

@@ -1,0 +1,318 @@
+Info: constraining clock net 'clock' to 25.00 MHz
+Warning: IO 'total[31]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[30]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[29]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[28]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[27]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[26]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[25]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[24]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[23]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[22]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[21]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[20]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[19]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[18]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[17]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[16]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[15]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[14]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[13]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[12]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[11]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[10]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[9]' is unconstrained in LPF and will be automatically placed
+Warning: IO 'total[8]' is unconstrained in LPF and will be automatically placed
+
+Info: Logic utilisation before packing:
+Info:     Total LUT4s:        54/83640     0%
+Info:         logic LUTs:      6/83640     0%
+Info:         carry LUTs:     48/83640     0%
+Info:           RAM LUTs:      0/10455     0%
+Info:          RAMW LUTs:      0/20910     0%
+
+Info:      Total DFFs:        44/83640     0%
+
+Info: Packing IOs..
+Info: pin 'total[7]$tr_io' constrained to Bel 'X0/Y11/PIOA'.
+Info: pin 'total[6]$tr_io' constrained to Bel 'X0/Y11/PIOD'.
+Info: pin 'total[5]$tr_io' constrained to Bel 'X0/Y11/PIOB'.
+Info: pin 'total[4]$tr_io' constrained to Bel 'X4/Y0/PIOB'.
+Info: pin 'total[3]$tr_io' constrained to Bel 'X4/Y0/PIOA'.
+Info: pin 'total[2]$tr_io' constrained to Bel 'X15/Y0/PIOB'.
+Info: pin 'total[1]$tr_io' constrained to Bel 'X18/Y0/PIOB'.
+Info: pin 'total[0]$tr_io' constrained to Bel 'X18/Y0/PIOA'.
+Info: pin 'line_result[7]$tr_io' constrained to Bel 'X0/Y41/PIOD'.
+Info: pin 'line_result[6]$tr_io' constrained to Bel 'X0/Y38/PIOD'.
+Info: pin 'line_result[5]$tr_io' constrained to Bel 'X0/Y44/PIOD'.
+Info: pin 'line_result[4]$tr_io' constrained to Bel 'X0/Y38/PIOB'.
+Info: pin 'line_result[3]$tr_io' constrained to Bel 'X0/Y38/PIOC'.
+Info: pin 'line_result[2]$tr_io' constrained to Bel 'X0/Y38/PIOA'.
+Info: pin 'line_result[1]$tr_io' constrained to Bel 'X0/Y35/PIOD'.
+Info: pin 'line_result[0]$tr_io' constrained to Bel 'X0/Y35/PIOC'.
+Info: pin 'end_of_line$tr_io' constrained to Bel 'X60/Y0/PIOB'.
+Info: pin 'digit_valid$tr_io' constrained to Bel 'X60/Y0/PIOA'.
+Info: pin 'digit[3]$tr_io' constrained to Bel 'X63/Y0/PIOB'.
+Info: pin 'digit[2]$tr_io' constrained to Bel 'X63/Y0/PIOA'.
+Info: pin 'digit[1]$tr_io' constrained to Bel 'X65/Y0/PIOB'.
+Info: pin 'digit[0]$tr_io' constrained to Bel 'X65/Y0/PIOA'.
+Info: pin 'clock$tr_io' constrained to Bel 'X0/Y47/PIOA'.
+Info: pin 'clear$tr_io' constrained to Bel 'X4/Y95/PIOA'.
+Info: Packing constants..
+Info: Packing carries...
+Info: Packing LUTs...
+Info: Packing LUT5-7s...
+Info: Packing FFs...
+Info:     39 FFs paired with LUTs.
+Info: Generating derived timing constraints...
+Info: Promoting globals...
+Info:     promoting clock net clock$TRELLIS_IO_IN to global network
+Info: Checksum: 0xa7e6642d
+
+Info: Device utilisation:
+Info: 	          TRELLIS_IO:      48/    365    13%
+Info: 	                DCCA:       1/     56     1%
+Info: 	              DP16KD:       0/    208     0%
+Info: 	          MULT18X18D:       1/    156     0%
+Info: 	              ALU54B:       0/     78     0%
+Info: 	             EHXPLLL:       0/      4     0%
+Info: 	             EXTREFB:       0/      2     0%
+Info: 	                DCUA:       0/      2     0%
+Info: 	           PCSCLKDIV:       0/      2     0%
+Info: 	             IOLOGIC:       0/    224     0%
+Info: 	            SIOLOGIC:       0/    141     0%
+Info: 	                 GSR:       0/      1     0%
+Info: 	               JTAGG:       0/      1     0%
+Info: 	                OSCG:       0/      1     0%
+Info: 	               SEDGA:       0/      1     0%
+Info: 	                 DTR:       0/      1     0%
+Info: 	             USRMCLK:       0/      1     0%
+Info: 	             CLKDIVF:       0/      4     0%
+Info: 	           ECLKSYNCB:       0/     10     0%
+Info: 	             DLLDELD:       0/      8     0%
+Info: 	              DDRDLL:       0/      4     0%
+Info: 	             DQSBUFM:       0/     14     0%
+Info: 	     TRELLIS_ECLKBUF:       0/      8     0%
+Info: 	        ECLKBRIDGECS:       0/      2     0%
+Info: 	                DCSC:       0/      2     0%
+Info: 	          TRELLIS_FF:      44/  83640     0%
+Info: 	        TRELLIS_COMB:      68/  83640     0%
+Info: 	        TRELLIS_RAMW:       0/  10455     0%
+
+Info: Placed 24 cells based on constraints.
+Info: Creating initial analytic placement for 17 cells, random placement wirelen = 8527.
+Info:     at initial placer iter 0, wirelen = 4795
+Info:     at initial placer iter 1, wirelen = 4096
+Info:     at initial placer iter 2, wirelen = 3857
+Info:     at initial placer iter 3, wirelen = 3677
+Info: Running main analytical placer, max placement attempts per cell = 10000.
+Info:     at iteration #1, type ALL: wirelen solved = 3642, spread = 3693, legal = 3729; time = 0.02s
+Info: HeAP Placer Time: 0.14s
+Info:   of which solving equations: 0.00s
+Info:   of which spreading cells: 0.00s
+Info:   of which strict legalisation: 0.00s
+
+Info: Running simulated annealing placer for refinement.
+Info:   at iteration #1: temp = 0.000000, timing cost = 23, wirelen = 3729
+Info:   at iteration #5: temp = 0.000000, timing cost = 16, wirelen = 3158
+Info:   at iteration #10: temp = 0.000000, timing cost = 16, wirelen = 3120
+Info:   at iteration #10: temp = 0.000000, timing cost = 16, wirelen = 3120 
+Info: SA placement time 0.06s
+
+Info: Max frequency for clock '$glbnet$clock$TRELLIS_IO_IN': 100.70 MHz (PASS at 25.00 MHz)
+
+Info: Max delay <async>                             -> posedge $glbnet$clock$TRELLIS_IO_IN: 12.04 ns
+Info: Max delay posedge $glbnet$clock$TRELLIS_IO_IN -> <async>                            : 12.93 ns
+
+Info: Slack histogram:
+Info:  legend: * represents 1 endpoint(s)
+Info:          + represents [1,1) endpoint(s)
+Info: [ 30070,  30473) |******** 
+Info: [ 30473,  30876) | 
+Info: [ 30876,  31279) | 
+Info: [ 31279,  31682) | 
+Info: [ 31682,  32085) | 
+Info: [ 32085,  32488) | 
+Info: [ 32488,  32891) | 
+Info: [ 32891,  33294) |** 
+Info: [ 33294,  33697) |**** 
+Info: [ 33697,  34100) |* 
+Info: [ 34100,  34503) | 
+Info: [ 34503,  34906) | 
+Info: [ 34906,  35309) | 
+Info: [ 35309,  35712) | 
+Info: [ 35712,  36115) | 
+Info: [ 36115,  36518) |*** 
+Info: [ 36518,  36921) |*********** 
+Info: [ 36921,  37324) |**************** 
+Info: [ 37324,  37727) |***** 
+Info: [ 37727,  38130) |* 
+Info: Checksum: 0x57ce2e19
+Info: Routing globals...
+Info:     routing clock net $glbnet$clock$TRELLIS_IO_IN using global 0
+
+Info: Routing..
+Info: Setting up routing queue.
+Info: Routing 287 arcs.
+Info:            |   (re-)routed arcs  |   delta    | remaining|       time spent     |
+Info:    IterCnt |  w/ripup   wo/ripup |  w/r  wo/r |      arcs| batch(sec) total(sec)|
+Info:        305 |       18        257 |   18   257 |         0|       0.19       0.19|
+Info: Routing complete.
+Info: Router1 time 0.19s
+Info: Checksum: 0x0363ecfe
+
+Info: Critical path report for clock '$glbnet$clock$TRELLIS_IO_IN' (posedge -> posedge):
+Info:       type curr  total name
+Info:   clk-to-q  0.52  0.52 Source _22_TRELLIS_FF_Q_2.Q
+Info:    routing  1.14  1.66 Net _22[1] (18,33) -> (18,34)
+Info:                          Sink _32_MULT18X18D_P0.A1
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:34.16-34.19
+Info:      logic  3.93  5.59 Source _32_MULT18X18D_P0.P0
+Info:    routing  1.38  6.97 Net _31[1] (18,34) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_3$CCU2_COMB0.B
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:36.16-36.19
+Info:      logic  0.45  7.42 Source _35_CCU2C_S0_3$CCU2_COMB0.FCO
+Info:    routing  0.00  7.42 Net _35_CCU2C_S0_3$CCU2_FCI_INT (18,35) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_3$CCU2_COMB1.FCI
+Info:      logic  0.00  7.42 Source _35_CCU2C_S0_3$CCU2_COMB1.FCO
+Info:    routing  0.00  7.42 Net _35_CCU2C_S0_3_COUT (18,35) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_2$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:76.18-76.27
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  7.49 Source _35_CCU2C_S0_2$CCU2_COMB0.FCO
+Info:    routing  0.00  7.49 Net _35_CCU2C_S0_2$CCU2_FCI_INT (18,35) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_2$CCU2_COMB1.FCI
+Info:      logic  0.00  7.49 Source _35_CCU2C_S0_2$CCU2_COMB1.FCO
+Info:    routing  0.00  7.49 Net _35_CCU2C_S0_2_COUT (18,35) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_1$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:76.18-76.27
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  7.56 Source _35_CCU2C_S0_1$CCU2_COMB0.FCO
+Info:    routing  0.00  7.56 Net _35_CCU2C_S0_1$CCU2_FCI_INT (18,35) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_1$CCU2_COMB1.FCI
+Info:      logic  0.00  7.56 Source _35_CCU2C_S0_1$CCU2_COMB1.FCO
+Info:    routing  0.00  7.56 Net _35_CCU2C_S0_1_COUT (18,35) -> (19,35)
+Info:                          Sink _35_CCU2C_S0$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:76.18-76.27
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.44  8.01 Source _35_CCU2C_S0$CCU2_COMB0.F
+Info:    routing  1.07  9.08 Net _35[7] (19,35) -> (19,36)
+Info:                          Sink _37_LUT4_Z_D_CCU2C_COUT$CCU2_COMB1.B
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:37.16-37.19
+Info:      logic  0.45  9.52 Source _37_LUT4_Z_D_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  9.52 Net $nextpnr_CCU2C_1$CIN (19,36) -> (19,36)
+Info:                          Sink $nextpnr_CCU2C_1$CCU2_COMB0.FCI
+Info:      logic  0.44  9.97 Source $nextpnr_CCU2C_1$CCU2_COMB0.F
+Info:    routing  0.71  10.68 Net _37_LUT4_Z_D (19,36) -> (19,35)
+Info:                          Sink _37_LUT4_Z.D
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:77.18-77.27
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.24  10.91 Source _37_LUT4_Z.F
+Info:    routing  0.64  11.56 Net _37 (19,35) -> (18,35)
+Info:                          Sink _19_TRELLIS_FF_Q_6.CE
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:40.10-40.13
+Info:      setup  0.00  11.56 Source _19_TRELLIS_FF_Q_6.CE
+Info: 6.61 ns logic, 4.95 ns routing
+
+Info: Critical path report for cross-domain path '<async>' -> 'posedge $glbnet$clock$TRELLIS_IO_IN':
+Info:       type curr  total name
+Info:     source  0.00  0.00 Source digit[3]$tr_io.O
+Info:    routing  5.49  5.49 Net _34[3] (63,0) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_2$CCU2_COMB0.A
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:13.17-13.22
+Info:      logic  0.45  5.93 Source _35_CCU2C_S0_2$CCU2_COMB0.FCO
+Info:    routing  0.00  5.93 Net _35_CCU2C_S0_2$CCU2_FCI_INT (18,35) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_2$CCU2_COMB1.FCI
+Info:      logic  0.00  5.93 Source _35_CCU2C_S0_2$CCU2_COMB1.FCO
+Info:    routing  0.00  5.93 Net _35_CCU2C_S0_2_COUT (18,35) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_1$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:76.18-76.27
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.07  6.00 Source _35_CCU2C_S0_1$CCU2_COMB0.FCO
+Info:    routing  0.00  6.00 Net _35_CCU2C_S0_1$CCU2_FCI_INT (18,35) -> (18,35)
+Info:                          Sink _35_CCU2C_S0_1$CCU2_COMB1.FCI
+Info:      logic  0.00  6.00 Source _35_CCU2C_S0_1$CCU2_COMB1.FCO
+Info:    routing  0.00  6.00 Net _35_CCU2C_S0_1_COUT (18,35) -> (19,35)
+Info:                          Sink _35_CCU2C_S0$CCU2_COMB0.FCI
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:76.18-76.27
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.44  6.45 Source _35_CCU2C_S0$CCU2_COMB0.F
+Info:    routing  1.07  7.52 Net _35[7] (19,35) -> (19,36)
+Info:                          Sink _37_LUT4_Z_D_CCU2C_COUT$CCU2_COMB1.B
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:37.16-37.19
+Info:      logic  0.45  7.97 Source _37_LUT4_Z_D_CCU2C_COUT$CCU2_COMB1.FCO
+Info:    routing  0.00  7.97 Net $nextpnr_CCU2C_1$CIN (19,36) -> (19,36)
+Info:                          Sink $nextpnr_CCU2C_1$CCU2_COMB0.FCI
+Info:      logic  0.44  8.41 Source $nextpnr_CCU2C_1$CCU2_COMB0.F
+Info:    routing  0.71  9.12 Net _37_LUT4_Z_D (19,36) -> (19,35)
+Info:                          Sink _37_LUT4_Z.D
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:77.18-77.27
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/arith_map_ccu2c.v:74.7-80.4
+Info:                               /Users/jasonliang/oss-cad-suite/libexec/../share/yosys/lattice/ccu2c_sim.vh:9.9-9.13
+Info:      logic  0.24  9.35 Source _37_LUT4_Z.F
+Info:    routing  0.64  10.00 Net _37 (19,35) -> (18,35)
+Info:                          Sink _19_TRELLIS_FF_Q_6.CE
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:40.10-40.13
+Info:      setup  0.00  10.00 Source _19_TRELLIS_FF_Q_6.CE
+Info: 2.09 ns logic, 7.91 ns routing
+
+Info: Critical path report for cross-domain path 'posedge $glbnet$clock$TRELLIS_IO_IN' -> '<async>':
+Info:       type curr  total name
+Info:   clk-to-q  0.52  0.52 Source _43_TRELLIS_FF_Q_3.Q
+Info:    routing  8.17  8.69 Net _43[28] (21,32) -> (96,95)
+Info:                          Sink total[28]$tr_io.I
+Info:                          Defined in:
+Info:                               ../verilog/part1.v:16.19-16.24
+Info: 0.52 ns logic, 8.17 ns routing
+
+Info: Max frequency for clock '$glbnet$clock$TRELLIS_IO_IN': 86.51 MHz (PASS at 25.00 MHz)
+
+Info: Max delay <async>                             -> posedge $glbnet$clock$TRELLIS_IO_IN: 10.00 ns
+Info: Max delay posedge $glbnet$clock$TRELLIS_IO_IN -> <async>                            : 8.69 ns
+
+Info: Slack histogram:
+Info:  legend: * represents 1 endpoint(s)
+Info:          + represents [1,1) endpoint(s)
+Info: [ 28440,  28914) |******** 
+Info: [ 28914,  29388) | 
+Info: [ 29388,  29862) | 
+Info: [ 29862,  30336) | 
+Info: [ 30336,  30810) | 
+Info: [ 30810,  31284) | 
+Info: [ 31284,  31758) | 
+Info: [ 31758,  32232) |****** 
+Info: [ 32232,  32706) |* 
+Info: [ 32706,  33180) | 
+Info: [ 33180,  33654) | 
+Info: [ 33654,  34128) | 
+Info: [ 34128,  34602) | 
+Info: [ 34602,  35076) | 
+Info: [ 35076,  35550) | 
+Info: [ 35550,  36024) | 
+Info: [ 36024,  36498) |********* 
+Info: [ 36498,  36972) |************ 
+Info: [ 36972,  37446) |************** 
+Info: [ 37446,  37920) |* 
+24 warnings, 0 errors
+
+Info: Program finished normally.
