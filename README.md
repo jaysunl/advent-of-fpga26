@@ -4,10 +4,10 @@ HardCaml implementation of a digit selection problem. Each line contains a seque
 
 ## Prerequisites
 
-OCaml 4.14 or later
-opam package manager  
-Python 3
-Yosys and NextPNR-ECP5 for FPGA synthesis (optional)
+- OCaml 4.14 or later
+- opam package manager  
+- Python 3
+- Yosys and NextPNR-ECP5 for FPGA synthesis (optional)
 
 ```
 cd day3
@@ -77,7 +77,7 @@ Clean build artifacts:
 make clean
 ```
 
-Resource utilization and timing reports are printed directly to the terminal. `.json` files represent the synthesized netlists. `.config` files contain physical implementation results.`.bit files` contain FPGA bitstreams.
+Resource utilization and timing reports are printed directly to the terminal. `.json` files represent the synthesized netlists. `.config` files contain physical implementation results.`.bit` files contain FPGA bitstreams.
 
 ## Methodology
 
