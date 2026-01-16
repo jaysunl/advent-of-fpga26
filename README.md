@@ -2,6 +2,18 @@
 
 HardCaml implementation of a digit selection problem. Each line contains a sequence of digits from 1 to 9. Part 1 selects two digits in order to maximize the resulting 2-digit number. Part 2 selects twelve digits to maximize a 12-digit number. The answer is the sum of the maximum values across all lines.
 
+## Directory Structure
+
+```
+day3/
+├── bin/         # Executables (generate.ml, run.ml)
+├── lib/         # HardCaml implementations (part1.ml, part2.ml)
+├── test/        # Hardware tests with waveforms
+├── software/    # Python reference implementations
+├── data/        # Input data files
+└── imp/         # FPGA synthesis and place-and-route
+```
+
 ## Prerequisites
 
 - OCaml 4.14 or later
