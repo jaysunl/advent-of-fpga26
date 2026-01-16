@@ -74,6 +74,7 @@ You must generate the Verilog first.
 
 Run synthesis and place-and-route:
 ```
+cd imp
 make part1    # Synthesize Part 1
 make part2    # Synthesize Part 2
 make all      # Both parts
